@@ -2,7 +2,7 @@
 ![learn2earn](https://learn2earnn.com/Portfolio/learn2earn_institute.jpeg)
 
 
-# Property Mangement Syatem (POS)
+# Property Mangement System (POS)
 
 This Software manage the modules of Sales Mangement, Property Mangement  , Installment Mangement
 Profit & Loss with Full Representation of the Graphs 
