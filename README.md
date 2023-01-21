@@ -71,7 +71,7 @@ this Software support All operating System
 To Install the Project in Directory. Clone With Following link 
 
 ```bash
-  https://github.com/Learn2Earn-Team/Property-Management-System.git
+  git clone https://github.com/Learn2Earn-Team/Property-Management-System.git
 ```
     
 ## Build For Android
