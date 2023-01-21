@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Baba Fareed Town</string>
+    <string name="title_activity_main">Baba Fareed Town</string>
+    <string name="package_name">com.learn2earn.babafareedtown</string>
+    <string name="custom_url_scheme">com.learn2earn.babafareedtown</string>
+</resources>
