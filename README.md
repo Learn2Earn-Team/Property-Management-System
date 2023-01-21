@@ -96,9 +96,9 @@ yes you can install by using upper instruction
 #### What is user name and password ?
 
 Yes you can login by using below credentials
-username : admin
-password : 2233
-role : admin
+`username` : `admin`
+`password` : `2233`
+`role` : `admin`
 
 #### Can We buy Monthly Subscriptions?
 yes you can buy the software on Monthly Subscriptions.
