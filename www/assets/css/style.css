@@ -1,0 +1,351 @@
+
+#d2{
+    display: flex;
+    justify-content: center;
+
+}
+#text{
+	float: left;
+	height: 100px;
+	margin-left: 20px;
+}
+#devdate{	
+	height: 37px;
+	display: flex;
+	float: right;
+
+}
+#date{
+	width: 150px;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.311);
+	margin-left: 5px;
+	height: 37px;
+	text-align: center;
+	font-weight: 700;
+}
+	#dev2{
+		
+		width: 100%;
+		display: flex;
+	justify-content: center;
+	}
+	
+	#img{
+		height: 120px;
+		width: 200px;
+		
+	
+		
+	}
+	#csimgdiv{
+		float: right;
+		margin-right: 10px;
+	}
+	#cameraImage{
+		height: 100px;
+		width: 100px;
+	}
+	#span1{
+		font-size: 30px;
+		color: rgb(68, 174, 22);
+		font-weight: 900;
+		font-family: monospace;
+	}
+	#span2{
+		font-size: 30px;
+		color: rgb(74, 77, 156);
+		font-weight: 900;
+		font-family: monospace;	
+	}
+	
+    #d3{
+		/* display: flex; */
+    /* justify-content: center; */
+	display: flex;
+	justify-content: center;
+	
+	}
+	#h11{
+		font-weight: 700;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+	}
+	
+    #d4{
+		border: 1px solid rgb(255, 255, 255);
+		height: 100%;
+		/* margin-top: 100px; */
+		
+	}
+    #d5{
+        padding: 20px;
+    }
+    #h31{
+		color: blue;
+		font-weight: 800;
+	}
+    #dev1{
+		margin-top: 10px;
+		height: 40px;
+		display: flex;
+	}
+	#div2{
+		width: 140px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div4{
+		width: 210px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#date1{
+		float: right;
+	}
+	#div5{
+		width: 215px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div51{
+		width: 610px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 750;
+	}
+	#div6{
+		width: 350px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div61{
+		width: 620px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div71{
+		width: 600px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div81{
+		width: 190px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div82{
+		width: 150px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#ad1{
+		width: 185px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#rem1{
+		width: 170px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#per{
+		width: 160px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div88{
+		width: 300px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div91{
+		width: 490px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#divbooking{
+		display: flex;
+		width: 100%;
+	}
+	#div92{
+		width: 220px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	/* #div9233{
+		width: 250px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	} */
+	#div7{
+		width: 145px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+		text-align: center;
+	font-weight: 700;
+	}
+	#div8{
+		width: 450px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+		text-align: center;
+	font-weight: 700;
+	}
+	#div9{
+		width: 460px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div10{
+		width: 415px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#month{
+		width: 420px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div11{
+		
+		width: 200px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+	}
+	#div12{
+		width: 435px;
+		border-bottom: 1px solid black;
+		margin-left: 5px;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div3{
+		
+		border-bottom: 1px solid black;
+		height: 37px;
+		
+		width: 100px;
+	}
+	#name{
+		font-weight: 600;
+		margin-left: 5px;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+		
+	}
+	#names{
+		font-weight: 600;
+		margin-left: 10px;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+	}
+	
+	#footer{
+		height: 100px;
+	
+		position: absolute;
+		bottom: 10px;
+		
+	}
+	#spanf1{
+
+		font-size: 15px;
+		color: rgb(74, 77, 156);
+		font-weight: 900;
+		font-family: sans-serif;
+
+	}
+	#sign{
+		margin-top: 80px;
+		height: 100px;
+		width: 100%;
+		display: flex;
+		
+	}
+	#mainsin{
+		height: 50px;
+		width: 400px;
+	}
+	#cssign{
+		width: 200px;
+		height: 20px;
+		border-bottom: 1px solid black;
+	}
+	#msign{
+		width: 200px;
+		height: 20px;
+		border-bottom: 1px solid black;
+	}
+	#float{
+		float: right;
+	}

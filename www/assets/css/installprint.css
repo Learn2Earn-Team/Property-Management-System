@@ -1,0 +1,245 @@
+#d2{
+	margin-top: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+#text{
+	float: left;
+	height: 50px;
+	margin-left: 20px;
+	margin-top: -1px;
+}
+	#img{
+		height: 100px;
+		width: 150px;
+		
+	}
+	#span1{
+		font-size: 20px;
+		color: rgb(68, 174, 22);
+		font-weight: 900;
+		font-family: monospace;
+	}
+	#span2{
+		font-size: 20px;
+		color: rgb(74, 77, 156);
+		font-weight: 900;
+		font-family: monospace;	
+	}
+	
+    #d3{
+		/* display: flex; */
+    /* justify-content: center; */
+	display: flex;
+	justify-content: center;
+	
+	}
+	#h11{
+		font-weight: 800;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+	}
+    #d4{
+
+	}
+    #d5{
+        padding: 20px;
+    }
+    #h31{
+		color: blue;
+		font-weight: 800;
+	}
+    
+    #dev1{
+		
+		display: flex;
+	}
+	#devdate{
+		
+		height: 30px;
+		display: flex;
+		float: right;
+		margin-top: -20px;
+	}
+	#dev2{
+		display: flex;
+		height: 50px;
+	}
+	#div2{
+		width: 150px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div4{
+		width: 520px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div5{
+		width: 130px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#discount{
+		width: 120px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#net{
+		width: 100px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div6{
+		width: 170px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+		
+	}
+	#div7{
+		width: 150px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+		text-align: center;
+	font-weight: 700;
+	}
+	#div8{
+		width: 580px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+		text-align: center;
+	font-weight: 700;
+	}
+	#div9{
+		width: 510px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#inst{
+		width: 490px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div10{
+		width: 510px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div11{
+		
+		width: 200px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		
+	}
+	#div12{
+		width: 490px;
+		border-bottom: 1px solid black;
+		margin-left: auto;
+		height: 37px;
+		text-align: center;
+	font-weight: 700;
+	}
+	#div3{
+		
+		border-bottom: 1px solid black;
+		height: 37px;
+		
+		width: 100px;
+	}
+	#name{
+		font-weight: 600;
+		margin-left: 5px;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+		
+	}
+	#names{
+		font-weight: 600;
+		margin-left: 10px;
+		color: rgb(101, 96, 96);
+		font-family: sans-serif;
+	}
+	#date{
+		width: 100px;
+		border-bottom: 1px solid rgba(0, 0, 0, 0.311);
+		margin-left: 5px;
+		height: 37px;
+		text-align: center;
+	    font-weight: 700;
+	}
+	#footer{
+		height: 100px;
+	
+		position: absolute;
+		bottom: 10px;
+		
+	}
+	#spanf1{
+
+		font-size: 15px;
+		color: rgb(74, 77, 156);
+		font-weight: 900;
+		font-family: sans-serif;
+
+	}
+	#sign{
+		margin-top: 100px;
+		height: 100px;
+		width: 100%;
+		display: flex;
+		
+	}
+	#mainsin{
+		height: 50px;
+		width: 400px;
+	}
+	#cssign{
+		width: 200px;
+		height: 20px;
+		border-bottom: 1px solid black;
+	}
+	#msign{
+		width: 200px;
+		height: 20px;
+		border-bottom: 1px solid black;
+	}
+	#float{
+		float: right;
+	}

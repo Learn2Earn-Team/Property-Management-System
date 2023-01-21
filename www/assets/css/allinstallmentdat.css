@@ -1,0 +1,74 @@
+#template{
+    border: 1px solid black;
+}
+#d1{
+
+    height: 100%;
+    width: 100%;
+}
+#divall{
+    height: 100px;
+}
+#dimg{
+    float: left;
+}
+#name{
+    float: right;
+}
+#img{
+
+    height: 100px;
+    width: 150px;
+}
+#dh2{
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
+#d2{
+    
+  
+}
+#table{
+    width: 100%;
+    margin-top: 100px;
+}
+#th{
+    text-align: left;
+}
+#td{
+    height: 40px;
+    font-size: 10px;
+}
+#sign{
+    margin-top: 100px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    
+}
+#name{
+    font-weight: 600;
+    margin-left: 5px;
+    color: rgb(101, 96, 96);
+    font-family: sans-serif;
+    
+}
+#mainsin{
+    height: 50px;
+    width: 400px;
+    border: 1px solid black
+}
+#cssign{
+    width: 200px;
+    height: 20px;
+    border-bottom: 1px solid black;
+}
+#msign{
+    width: 200px;
+    height: 20px;
+    border-bottom: 1px solid black;
+}
+#float{
+    float: right;
+}
